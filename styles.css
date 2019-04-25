@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courgette', cursive;
+}
+
+nav {display:inline-block;}
+
+h1 {
+  justify-content: center
+}
+
+body {display:flex}
+
+section {
+  flex-direction: row;
+  justify-content: space-around;
+
+}
